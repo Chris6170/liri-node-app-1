@@ -15,7 +15,8 @@
   "license": "ISC",
   "dependencies": {
     "dotenv": "^6.1.0",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "node-spotify-api": ""
   },
   "bugs": {
     "url": "https://github.com/glaracuente/liri-node-app/issues"

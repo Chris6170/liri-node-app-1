@@ -1,0 +1,453 @@
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+Gerry
+
+----- Venue #0 -----
+Name: Sames Auto Arena
+Lineup: Ozuna
+Location: Laredo, United States
+Date: 11/10/2018
+
+
+----- Venue #1 -----
+Name: Mandalay Bay Events Center
+Lineup: Ozuna
+Location: Las Vegas, United States
+Date: 11/16/2018
+
+
+----- Venue #2 -----
+Name: Comerica Theatre
+Lineup: Ozuna
+Location: Phoenix, United States
+Date: 11/17/2018
+
+
+----- Venue #3 -----
+Name: The Forum
+Lineup: Ozuna
+Location: Los Angeles, United States
+Date: 11/21/2018
+
+
+----- Venue #4 -----
+Name: BB&T Center
+Lineup: Ozuna
+Location: Sunrise, United States
+Date: 11/22/2018
+
+
+----- Venue #5 -----
+Name: Honda Center
+Lineup: Ozuna
+Location: Anaheim, United States
+Date: 11/24/2018
+
+
+----- Venue #6 -----
+Name: Valley View Casino Center
+Lineup: Ozuna
+Location: San Diego, United States
+Date: 11/25/2018
+
+
+----- Venue #7 -----
+Name: NRG Stadium
+Lineup: Ozuna
+Location: Houston, United States
+Date: 11/30/2018
+
+
+----- Venue #8 -----
+Name: La Hacienda Event Center
+Lineup: Ozuna
+Location: Midland, United States
+Date: 12/01/2018
+
+
+----- Venue #9 -----
+Name: SAP Center At San Jose
+Lineup: Ozuna
+Location: San Jose, United States
+Date: 12/02/2018
+
+
+----- Venue #10 -----
+Name: Verizon Theatre
+Lineup: Ozuna
+Location: Grand Prairie, United States
+Date: 12/12/2018
+
+
+----- Venue #11 -----
+Name: Verizon Theatre
+Lineup: Ozuna
+Location: Grand Prairie, United States
+Date: 12/13/2018
+
+
+----- Venue #12 -----
+Name: Greensboro Coliseum Complex
+Lineup: Ozuna
+Location: Greensboro, United States
+Date: 12/15/2018
+
+
+----- Venue #13 -----
+Name: Rupp Arena
+Lineup: Ozuna
+Location: Lexington, United States
+Date: 12/16/2018
+
+
+----- Venue #14 -----
+Name: Greensboro Coliseum Complex
+Lineup: Ozuna
+Location: Greensboro, United States
+Date: 12/20/2018
+
+
+----- Venue #15 -----
+Name: AmericanAirlines Arena
+Lineup: Ozuna
+Location: Miami, United States
+Date: 12/23/2018
+
+
+----- Venue #16 -----
+Name: Staples Center
+Lineup: Ozuna,Nicky Jam,Calibash,Yandel,Wisin,...... wisin y yandel .....,Anuel Aa
+Location: Los Angeles, United States
+Date: 01/19/2019
+
+
+----- Venue #0 -----
+Name: Sames Auto Arena
+Lineup: Ozuna
+Location: Laredo, United States
+Date: 11/10/2018
+
+----- Venue #1 -----
+Name: Mandalay Bay Events Center
+Lineup: Ozuna
+Location: Las Vegas, United States
+Date: 11/16/2018
+
+----- Venue #2 -----
+Name: Comerica Theatre
+Lineup: Ozuna
+Location: Phoenix, United States
+Date: 11/17/2018
+
+----- Venue #3 -----
+Name: The Forum
+Lineup: Ozuna
+Location: Los Angeles, United States
+Date: 11/21/2018
+
+----- Venue #4 -----
+Name: BB&T Center
+Lineup: Ozuna
+Location: Sunrise, United States
+Date: 11/22/2018
+
+----- Venue #5 -----
+Name: Honda Center
+Lineup: Ozuna
+Location: Anaheim, United States
+Date: 11/24/2018
+
+----- Venue #6 -----
+Name: Valley View Casino Center
+Lineup: Ozuna
+Location: San Diego, United States
+Date: 11/25/2018
+
+----- Venue #7 -----
+Name: NRG Stadium
+Lineup: Ozuna
+Location: Houston, United States
+Date: 11/30/2018
+
+----- Venue #8 -----
+Name: La Hacienda Event Center
+Lineup: Ozuna
+Location: Midland, United States
+Date: 12/01/2018
+
+----- Venue #9 -----
+Name: SAP Center At San Jose
+Lineup: Ozuna
+Location: San Jose, United States
+Date: 12/02/2018
+
+----- Venue #10 -----
+Name: Verizon Theatre
+Lineup: Ozuna
+Location: Grand Prairie, United States
+Date: 12/12/2018
+
+----- Venue #11 -----
+Name: Verizon Theatre
+Lineup: Ozuna
+Location: Grand Prairie, United States
+Date: 12/13/2018
+
+----- Venue #12 -----
+Name: Greensboro Coliseum Complex
+Lineup: Ozuna
+Location: Greensboro, United States
+Date: 12/15/2018
+
+----- Venue #13 -----
+Name: Rupp Arena
+Lineup: Ozuna
+Location: Lexington, United States
+Date: 12/16/2018
+
+----- Venue #14 -----
+Name: Greensboro Coliseum Complex
+Lineup: Ozuna
+Location: Greensboro, United States
+Date: 12/20/2018
+
+----- Venue #15 -----
+Name: AmericanAirlines Arena
+Lineup: Ozuna
+Location: Miami, United States
+Date: 12/23/2018
+
+----- Venue #16 -----
+Name: Staples Center
+Lineup: Ozuna,Nicky Jam,Calibash,Yandel,Wisin,...... wisin y yandel .....,Anuel Aa
+Location: Los Angeles, United States
+Date: 01/19/2019
+
+----- Venue #0 -----
+Name: Sames Auto Arena
+Lineup: Ozuna
+Location: Laredo, United States
+Date: 11/10/2018
+
+
+----- Venue #1 -----
+Name: Mandalay Bay Events Center
+Lineup: Ozuna
+Location: Las Vegas, United States
+Date: 11/16/2018
+
+
+----- Venue #2 -----
+Name: Comerica Theatre
+Lineup: Ozuna
+Location: Phoenix, United States
+Date: 11/17/2018
+
+
+----- Venue #3 -----
+Name: The Forum
+Lineup: Ozuna
+Location: Los Angeles, United States
+Date: 11/21/2018
+
+
+----- Venue #4 -----
+Name: BB&T Center
+Lineup: Ozuna
+Location: Sunrise, United States
+Date: 11/22/2018
+
+
+----- Venue #5 -----
+Name: Honda Center
+Lineup: Ozuna
+Location: Anaheim, United States
+Date: 11/24/2018
+
+
+----- Venue #6 -----
+Name: Valley View Casino Center
+Lineup: Ozuna
+Location: San Diego, United States
+Date: 11/25/2018
+
+
+----- Venue #7 -----
+Name: NRG Stadium
+Lineup: Ozuna
+Location: Houston, United States
+Date: 11/30/2018
+
+
+----- Venue #8 -----
+Name: La Hacienda Event Center
+Lineup: Ozuna
+Location: Midland, United States
+Date: 12/01/2018
+
+
+----- Venue #9 -----
+Name: SAP Center At San Jose
+Lineup: Ozuna
+Location: San Jose, United States
+Date: 12/02/2018
+
+
+----- Venue #10 -----
+Name: Verizon Theatre
+Lineup: Ozuna
+Location: Grand Prairie, United States
+Date: 12/12/2018
+
+
+----- Venue #11 -----
+Name: Verizon Theatre
+Lineup: Ozuna
+Location: Grand Prairie, United States
+Date: 12/13/2018
+
+
+----- Venue #12 -----
+Name: Greensboro Coliseum Complex
+Lineup: Ozuna
+Location: Greensboro, United States
+Date: 12/15/2018
+
+
+----- Venue #13 -----
+Name: Rupp Arena
+Lineup: Ozuna
+Location: Lexington, United States
+Date: 12/16/2018
+
+
+----- Venue #14 -----
+Name: Greensboro Coliseum Complex
+Lineup: Ozuna
+Location: Greensboro, United States
+Date: 12/20/2018
+
+
+----- Venue #15 -----
+Name: AmericanAirlines Arena
+Lineup: Ozuna
+Location: Miami, United States
+Date: 12/23/2018
+
+
+----- Venue #16 -----
+Name: Staples Center
+Lineup: Ozuna,Nicky Jam,Calibash,Yandel,Wisin,...... wisin y yandel .....,Anuel Aa
+Location: Los Angeles, United States
+Date: 01/19/2019
+
+
+Title: Venom
+Year: 2018
+imdbRating: 7.0
+Country: USA, China
+Language: English
+Plot: When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego "Venom" to save his life.
+Actors: Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze
+
+
+----- Song #1 -----
+Artists: Michael Jackson
+Song Name: Thriller
+Preview URL: https://p.scdn.co/mp3-preview/9f288fba4d3380b1ae25e7f88a2054d7fac0bf2d?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: Scream
+
+
+----- Song #2 -----
+Artists: Michael Jackson
+Song Name: Thriller
+Preview URL: https://p.scdn.co/mp3-preview/0b62db54da539b34856448e509c30ce4601931f5?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: Michael Jackson's This Is It
+
+
+----- Song #3 -----
+Artists: Michael Jackson
+Song Name: Billie Jean
+Preview URL: https://p.scdn.co/mp3-preview/4eb779428d40d579f14d12a9daf98fc66c7d0be4?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: Thriller 25 Super Deluxe Edition
+
+
+----- Song #4 -----
+Artists: Michael Jackson
+Song Name: Thriller
+Preview URL: https://p.scdn.co/mp3-preview/dd0621b7f11364a37c96031dbedbca6b88dbfa7d?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: Thriller 25 Super Deluxe Edition
+
+
+----- Song #5 -----
+Artists: Michael Jackson
+Song Name: Thriller - Single Version
+Preview URL: https://p.scdn.co/mp3-preview/41d3639dcb9fa25f07fb849730718a62538c6237?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: The Essential Michael Jackson
+
+
+----- Song #1 -----
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: The Hits--Chapter One
+
+
+----- Song #2 -----
+Artists: Backstreet Boys
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/b8c2410a5acb68b462be6ac85f1312430e2b149c?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: Millennium
+
+
+----- Song #3 -----
+Artists: Anthem Lights
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/4a163fbfa2dbbe4433f277e0e7395dca656364f5?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: Covers Part IV
+
+
+----- Song #4 -----
+Artists: Tyler and Mark
+Song Name: I Want It That Way
+Preview URL: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=4c4391b8af494a6392c63f8a64ece8e9
+Album: Beautiful Dreams
+
+
+----- Song #5 -----
+Artists: Dynamite Boy
+Song Name: I Want It That Way
+Preview URL: null
+Album: Punk Goes Pop
+
+

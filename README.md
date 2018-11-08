@@ -11,7 +11,8 @@ SPOTIFY_ID=""
 SPOTIFY_SECRET=""
 
 
-```Usage: node liri.js OPTION FILTER
+```
+Usage: node liri.js OPTION FILTER
 
 Valid OPTIONs are:
 concert-this '<artist/band name here>'
@@ -24,4 +25,5 @@ movie-this '<movie name here>'
 Example: movie-this 'harry potter'
 
 do-what-it-says
-Example: do-what-it-says```
+Example: do-what-it-says
+```

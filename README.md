@@ -31,7 +31,7 @@ Example: do-what-it-says
 
 >Examples of usage:
 ```
-*node liri.js concert-this weeknd*
+_node liri.js concert-this weeknd_
 ----- Venue #0 -----
 Name: Abu Dhabi F1
 Lineup: The Weeknd

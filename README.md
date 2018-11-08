@@ -11,8 +11,10 @@ SPOTIFY_ID=""
 SPOTIFY_SECRET=""
 ```
 
->How to use it:
+>How to use it (If you run with no arguments, usage will be displayed):
 ```
+node liri.js
+
 Usage: node liri.js OPTION FILTER
 
 Valid OPTIONs/FILTERs are:

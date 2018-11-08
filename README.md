@@ -2,7 +2,6 @@ This is a node.js application for searching for concerts, songs, or movies. The 
 
 Spotify for songs, Bands in Town for concerts, and OMDB for movies
 
-Please Note:
 
 >In order for the spotify-this-song option to work, you will need to provide your own .env file, containing proper credentials in the following format:
 
@@ -12,7 +11,7 @@ SPOTIFY_ID=""
 SPOTIFY_SECRET=""
 ```
 
-How to use it:
+>How to use it:
 ```
 Usage: node liri.js OPTION FILTER
 
@@ -30,7 +29,7 @@ do-what-it-says
 Example: do-what-it-says
 ```
 
-Examples of usage:
+>Examples of usage:
 ```
 *node liri.js concert-this weeknd*
 ----- Venue #0 -----

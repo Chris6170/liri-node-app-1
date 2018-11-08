@@ -14,7 +14,7 @@ SPOTIFY_SECRET=""
 ```
 Usage: node liri.js OPTION FILTER
 
-Valid OPTIONs are:
+Valid OPTIONs/FILTERs are:
 concert-this '<artist/band name here>'
 Example: concert-this 'ozuna'
 

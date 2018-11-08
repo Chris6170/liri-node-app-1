@@ -92,7 +92,7 @@ Plot: When Eddie Brock acquires the powers of a symbiote, he will have to releas
 Actors: Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze
 ```
 
->The last option is a bit different. It will take the option and filter from a given file. In this case, I specified in liri.js to use a file in the same directory with the contents 'movie-this,"rounders"'
+>The last option is a bit different. It will take the option and filter from a comma-delimited file specified within liri.js. In this case, the contents of that file are 'movie-this,"rounders"'.
 ```
 node liri.js do-what-it-says
 

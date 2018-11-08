@@ -31,7 +31,8 @@ Example: do-what-it-says
 
 >Examples of usage:
 ```
-_node liri.js concert-this weeknd_
+node liri.js concert-this weeknd
+
 ----- Venue #0 -----
 Name: Abu Dhabi F1
 Lineup: The Weeknd
@@ -58,7 +59,8 @@ Date: 12/05/2018
 ```
 
 ```
-*node liri.js spotify-this-song 'rolling stone'*
+node liri.js spotify-this-song 'rolling stone'
+
 ----- Song #1 -----
 Artists: Bob Dylan
 Song Name: Like a Rolling Stone
@@ -79,7 +81,8 @@ Album: Fashionably Late (Deluxe Edition)
 ```
 
 ```
-*node liri.js movie-this 'venom'*
+node liri.js movie-this 'venom'
+
 Title: Venom
 Year: 2018
 imdbRating: 7.0

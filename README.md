@@ -91,3 +91,17 @@ Language: English
 Plot: When Eddie Brock acquires the powers of a symbiote, he will have to release his alter-ego "Venom" to save his life.
 Actors: Tom Hardy, Michelle Williams, Riz Ahmed, Scott Haze
 ```
+
+>The last option is a bit different. It will take the option and filter from a given file. In this case, I specified in liri.js to use a file in the same directory with the contents 'movie-this,"rounders"'
+```
+node liri.js do-what-it-says
+
+Title: Rounders
+Year: 1998
+imdbRating: 7.3
+Country: USA
+Rotten Tomatoes Rating: 65%
+Language: English, Hebrew, Russian
+Plot: A young, reformed gambler must return to playing big stakes poker to help a friend pay off loan sharks, while balancing his relationship with his girlfriend and his commitments to law school.
+Actors: Matt Damon, Gretchen Mol, John Malkovich, Paul Cicero
+```
